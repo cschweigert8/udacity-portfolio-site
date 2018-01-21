@@ -1,0 +1,64 @@
+
+/*
+*
+** Header **
+*
+*/
+
+.header {
+	width: 80%;
+	margin: 10%;
+}
+
+.header__logo {
+	width: 50%;
+	margin-left: 23%;
+}
+
+
+/*
+*
+** Main **
+*
+*/
+
+main {
+	display: block;
+	margin: 0px;
+}
+
+.main__image{
+	width: 65%;
+	float: none;
+	margin: auto;
+	display: block;
+}
+
+.main__image img{
+	width: 100%;
+	float: none;
+}
+
+.sidebar {
+	padding: 0;
+	width: 65%;
+	display: block;
+	margin: auto;
+}
+
+.featured__work {
+	float: none;
+	margin: auto;
+}
+
+.featured__work h1 {
+	font-size: 15px;
+	margin: 10px 0;
+	text-align: center;
+}
+
+.feature {
+	width: 80%;
+	margin: auto;
+	display: block;
+}	

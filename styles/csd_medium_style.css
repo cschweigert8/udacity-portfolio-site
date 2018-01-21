@@ -1,0 +1,43 @@
+
+/*
+*
+** Header **
+*
+*/
+
+.header {
+	width: 80%;
+	float: none;
+	margin-left: 10%;
+}
+
+
+.header__logo {
+	width: 40%;
+	margin: auto;
+}
+
+
+/*
+*
+** Main **
+*
+*/
+
+.main__image{
+	margin: 10px 60px 10px 0px;
+}
+
+.sidebar {
+	margin-left: 10px;
+}
+
+.feature {
+	width: 28%;
+	margin: 10px;
+}
+
+
+
+
+
